@@ -25,7 +25,7 @@ public class fragmentChanger extends ActionBarActivity
      * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
      */
     private NavigationDrawerFragment mNavigationDrawerFragment;
-
+    private String test = "";
     /**
      * Used to store the last screen title. For use in {@link #restoreActionBar()}.
      */
